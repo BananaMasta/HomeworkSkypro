@@ -27,9 +27,9 @@ public class Main {
     }
 
     public static void task2() {
-        double valueDouble = 27.12;
+        float valueDouble = 27.12F;
         long valueLong = 987678965549L;
-        float valueFloat = 2.786F;
+        double valueFloat = 2.786;
         short valueShort = 569;
         short valueShort1 = -159;
         short valueShort2 = 27897;
